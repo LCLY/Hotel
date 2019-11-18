@@ -1,7 +1,6 @@
 # Hotel
 A simple HTML CSS hotel information website
 <br/>
-<br/>
 Visit: https://lcly.github.io/Hotel/
 <br/>
 <br/>
